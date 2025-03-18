@@ -59,7 +59,7 @@ public class ListaEncadeada{
             aux = aux.getProx();
         }
         return false;
-
+        // muda um monte de coisa aí
     }
 
 }
